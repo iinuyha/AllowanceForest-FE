@@ -3,6 +3,11 @@
    
 # 아이와 부모가 함께 만드는 똑똑한 금융 습관, 용돈의 숲 🌳 - FRONTEND
 
+[![The 'Pay언'한 핀테크 서비스 해커톤 장려상](https://img.shields.io/badge/The_%27Pay언%27한_핀테크_서비스_해커톤-장려상-FFEB99?style=for-the-badge&logo=trophy&logoColor=black)]()
+
+> 🏆 본 프로젝트는 **The 'Pay언'한 핀테크 서비스 해커톤**에서 **장려상**을 수상했습니다!
+
+
    [<img src="https://img.shields.io/badge/프로젝트 기간-2025.05.16~2025.05.17-fab2ac?style=flat&logo=&logoColor=white" />]()
 
 
